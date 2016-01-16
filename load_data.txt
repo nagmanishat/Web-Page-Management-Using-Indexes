@@ -1,0 +1,13 @@
+Time taken to load data in each table:
+Time taken to load the data in table MAJESTIC:
+Elapsed time was:     00:03:00.73
+CPU time was:         00:00:16.96
+Time taken to load the data in table MAJESTIC_INDEX1:
+Elapsed time was:     00:03:08.98
+CPU time was:         00:00:16.44
+Time taken to load the data in table MAJESTIC_INDEX2:
+Elapsed time was:     00:03:19.78
+CPU time was:         00:00:16.82
+Time taken to load the data in table MAJESTIC_INDEX3:
+Elapsed time was:     00:03:16.76
+CPU time was:         00:00:16.56

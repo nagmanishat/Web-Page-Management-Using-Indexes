@@ -1,0 +1,15 @@
+{csgrads1:~} time curl --data "domain_idx3=wikipedia.org" http://localhost:8018/search_idx3
+<h4>Global Ranking: (Using table majestic_index3)</h4>
+
+<ul>
+  <li>Ranking: 7</li>
+  <li>TLD Ranking: 1</li>
+</ul>
+<form action="majestic/domain/idx3" method="get">
+    <br><br>
+    <input type="submit" value="Search again">
+</form>
+
+real    0m0.238s
+user    0m0.003s
+sys     0m0.002s
